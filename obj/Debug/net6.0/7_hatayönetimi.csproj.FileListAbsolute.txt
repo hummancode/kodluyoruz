@@ -1,0 +1,15 @@
+C:\Users\ASUS\Documents\GitHub\kodluyoruz\7_hatayönetimi\bin\Debug\net6.0\7_hatayönetimi.exe
+C:\Users\ASUS\Documents\GitHub\kodluyoruz\7_hatayönetimi\bin\Debug\net6.0\7_hatayönetimi.deps.json
+C:\Users\ASUS\Documents\GitHub\kodluyoruz\7_hatayönetimi\bin\Debug\net6.0\7_hatayönetimi.runtimeconfig.json
+C:\Users\ASUS\Documents\GitHub\kodluyoruz\7_hatayönetimi\bin\Debug\net6.0\7_hatayönetimi.dll
+C:\Users\ASUS\Documents\GitHub\kodluyoruz\7_hatayönetimi\bin\Debug\net6.0\7_hatayönetimi.pdb
+C:\Users\ASUS\Documents\GitHub\kodluyoruz\7_hatayönetimi\obj\Debug\net6.0\7_hatayönetimi.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\GitHub\kodluyoruz\7_hatayönetimi\obj\Debug\net6.0\7_hatayönetimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Documents\GitHub\kodluyoruz\7_hatayönetimi\obj\Debug\net6.0\7_hatayönetimi.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\GitHub\kodluyoruz\7_hatayönetimi\obj\Debug\net6.0\7_hatayönetimi.AssemblyInfo.cs
+C:\Users\ASUS\Documents\GitHub\kodluyoruz\7_hatayönetimi\obj\Debug\net6.0\7_hatayönetimi.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\GitHub\kodluyoruz\7_hatayönetimi\obj\Debug\net6.0\7_hatayönetimi.dll
+C:\Users\ASUS\Documents\GitHub\kodluyoruz\7_hatayönetimi\obj\Debug\net6.0\refint\7_hatayönetimi.dll
+C:\Users\ASUS\Documents\GitHub\kodluyoruz\7_hatayönetimi\obj\Debug\net6.0\7_hatayönetimi.pdb
+C:\Users\ASUS\Documents\GitHub\kodluyoruz\7_hatayönetimi\obj\Debug\net6.0\7_hatayönetimi.genruntimeconfig.cache
+C:\Users\ASUS\Documents\GitHub\kodluyoruz\7_hatayönetimi\obj\Debug\net6.0\ref\7_hatayönetimi.dll
