@@ -1,0 +1,1 @@
+patika C# ödev1
