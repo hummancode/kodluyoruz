@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ASUS\\Documents\\GitHub\\kodluyoruz\\ödev1\\ödev1.csproj",
+      "projectUniqueName": "C:\\Users\\ASUS\\Documents\\GitHub\\kodluyoruz\\ödev1_C#101_patika\\ödev1.csproj",
       "projectName": "ödev1",
-      "projectPath": "C:\\Users\\ASUS\\Documents\\GitHub\\kodluyoruz\\ödev1\\ödev1.csproj",
+      "projectPath": "C:\\Users\\ASUS\\Documents\\GitHub\\kodluyoruz\\ödev1_C#101_patika\\ödev1.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ASUS\\Documents\\GitHub\\kodluyoruz\\ödev1\\obj\\",
+      "outputPath": "C:\\Users\\ASUS\\Documents\\GitHub\\kodluyoruz\\ödev1_C#101_patika\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"
