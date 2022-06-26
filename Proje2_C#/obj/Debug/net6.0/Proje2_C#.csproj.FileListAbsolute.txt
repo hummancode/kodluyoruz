@@ -1,0 +1,15 @@
+C:\Users\ASUS\Documents\GitHub\kodluyoruz\Proje2_C#\bin\Debug\net6.0\Proje2_C#.exe
+C:\Users\ASUS\Documents\GitHub\kodluyoruz\Proje2_C#\bin\Debug\net6.0\Proje2_C#.deps.json
+C:\Users\ASUS\Documents\GitHub\kodluyoruz\Proje2_C#\bin\Debug\net6.0\Proje2_C#.runtimeconfig.json
+C:\Users\ASUS\Documents\GitHub\kodluyoruz\Proje2_C#\bin\Debug\net6.0\Proje2_C#.dll
+C:\Users\ASUS\Documents\GitHub\kodluyoruz\Proje2_C#\bin\Debug\net6.0\Proje2_C#.pdb
+C:\Users\ASUS\Documents\GitHub\kodluyoruz\Proje2_C#\obj\Debug\net6.0\Proje2_C#.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\GitHub\kodluyoruz\Proje2_C#\obj\Debug\net6.0\Proje2_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Documents\GitHub\kodluyoruz\Proje2_C#\obj\Debug\net6.0\Proje2_C#.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\GitHub\kodluyoruz\Proje2_C#\obj\Debug\net6.0\Proje2_C#.AssemblyInfo.cs
+C:\Users\ASUS\Documents\GitHub\kodluyoruz\Proje2_C#\obj\Debug\net6.0\Proje2_C#.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\GitHub\kodluyoruz\Proje2_C#\obj\Debug\net6.0\Proje2_C#.dll
+C:\Users\ASUS\Documents\GitHub\kodluyoruz\Proje2_C#\obj\Debug\net6.0\refint\Proje2_C#.dll
+C:\Users\ASUS\Documents\GitHub\kodluyoruz\Proje2_C#\obj\Debug\net6.0\Proje2_C#.pdb
+C:\Users\ASUS\Documents\GitHub\kodluyoruz\Proje2_C#\obj\Debug\net6.0\Proje2_C#.genruntimeconfig.cache
+C:\Users\ASUS\Documents\GitHub\kodluyoruz\Proje2_C#\obj\Debug\net6.0\ref\Proje2_C#.dll
